@@ -141,4 +141,5 @@ app.get("/balance", verifyIfExistsAccountCPF, (request, response) => {
 
 	return response.json(balance);
 });
+
 app.listen(3333);
