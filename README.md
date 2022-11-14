@@ -18,7 +18,7 @@
 </h1>
 
 <h4 align="center"> 
-	✔  Code Feed 🚀 Concluído  ✔
+	✔  API 🚀 Concluída  ✔
 </h4>
 
 <p align="center">
