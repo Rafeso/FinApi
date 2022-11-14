@@ -12,5 +12,7 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": "https://github.com/Rafeso/FinApi.git",
+  "author": "Rafael Feitosa <rafaefeitosa@gmail.com>"
 }
